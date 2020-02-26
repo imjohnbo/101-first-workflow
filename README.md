@@ -8,4 +8,4 @@ Show GitHub Actions...in action :wink:
 
 ## 💻 Steps
 
-#### 1. Use GitHub Actions to lint code.
+#### 1. Use GitHub Actions to [lint](https://en.wikipedia.org/wiki/Lint_(software)) code using [`standard`](https://standardjs.com/).
