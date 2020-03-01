@@ -1,6 +1,4 @@
-# First Workflow
-
-Hello, [Open Source 101](https://opensource101.com/events/columbia-2020/)! :wave:
+# Open Source 101: First Workflow
 
 ## 🎯 Goal
 
