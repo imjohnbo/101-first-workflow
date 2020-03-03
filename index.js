@@ -2,7 +2,7 @@
 (function () {
   document.addEventListener('DOMContentLoaded', function (event) {
     // TODO use fetch API!
-    const req = new window.XMLHttpRequest();
+    const req = new window.XMLHttpRequest()
 
     req.onreadystatechange = function process () {
       if (req.readyState === window.XMLHttpRequest.DONE && req.status === 200) {
